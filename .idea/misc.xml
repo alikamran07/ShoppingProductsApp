@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyFinalTask/app/src/main/res/drawable/category_shape.xml" value="0.2064814814814815" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/drawable/ic_baseline_attach_email_24.xml" value="0.2064814814814815" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/drawable/ic_electronic.xml" value="0.2064814814814815" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/drawable/ic_launch.xml" value="0.2169230769230769" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2064814814814815" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/drawable/loginbtnshape.xml" value="0.2169230769230769" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/drawable/loginpage.xml" value="0.2169230769230769" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/drawable/prod_shape.xml" value="0.2064814814814815" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/activity_main.xml" value="0.18885869565217392" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/activity_my_login.xml" value="0.18885869565217392" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/activity_my_splash_screen.xml" value="0.18885869565217392" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/activity_single_product_page.xml" value="0.16621376811594202" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/category.xml" value="0.13" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/customview.xml" value="0.17980072463768115" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/horizontalview.xml" value="0.17980072463768115" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/productlist.xml" value="0.15" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/single_page.xml" value="0.16621376811594202" />
+        <entry key="..\:/MyFinalTask/app/src/main/res/layout/singleproductview.xml" value="0.17527173913043478" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
